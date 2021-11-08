@@ -1,0 +1,62 @@
+.form-control:focus {
+    border-color: #ff7700 !important;
+    box-shadow: 0 0 0 0.5px rgb(255 211 49 / 75%) !important; 
+} 
+
+.focus:focus {
+    background-color:#f7ccba ;
+}
+
+.focus{
+    
+    border: none !important;
+    outline: none !important;   
+    box-shadow: 0 0 0 0px rgb(255 211 49 / 75%) !important; 
+    
+}
+
+.focus:active{
+    color: #ff7700 !important;
+    background-color:#f7ccba !important;
+}
+
+.border-color {
+    color: #ff7700 !important;
+    border: 1px solid orange !important;
+    background-color:#f7ccba !important;
+}
+.submitButton {
+    width: 100%;
+    background-color: #ff7700;
+    border: none;
+    color: white;
+    padding: 5px;
+}
+.image-preview {
+    height: 8rem;
+    width: 100%;
+}
+.image-preview img {
+    height: 100%;
+}
+
+.otpBox {
+    width: 60px;
+    height: 60px;
+}
+
+.margin-box1 {
+    margin-left: 15px;
+}
+
+.margin-box2 {
+    margin-left: 35px;
+}
+
+.margin-box3 {
+    margin-left: 55px;
+}
+
+.margin-box4 {
+    margin-left: 75px;
+}

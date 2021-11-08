@@ -1,0 +1,33 @@
+[
+
+    {
+        "code": "AF",
+        "country": "Afghanistan",
+        "phoneCode": "+44"
+    },
+    {
+        "code": "AL",
+        "country": "Albania",
+        "phoneCode": "+52"
+    },
+    {
+        "code": "AS",
+        "country": "American Samoa",
+        "phoneCode": "+67"
+    },
+    {
+        "code": "DZ",
+        "country": "Algeria",
+        "phoneCode": "+73"
+    },
+    {
+        "code": "AD",
+        "country": "Andorra",
+        "phoneCode": "+89"
+    },
+    {
+        "code": "IN",
+        "country": "India",
+        "phoneCode": "+91"
+    }
+]

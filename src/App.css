@@ -1,0 +1,64 @@
+html, body { 
+   
+  height: 100%; }
+body {  
+  background: #fcfcfc !important;
+  padding: 0;
+  margin: 0;
+  /* margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; */
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+/* .css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #093e5c!important;
+} */
+
+.css-1juivf6-MuiTypography-root {
+  font-size: 15px !important;
+  font-weight: 0px !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 5.5px 14px !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input:hover {
+  border: 1px red solid !important;
+}
+
+.center {
+  text-align: center;
+  cursor: pointer;
+}
+
+.containers
+{
+  width: 500px;
+  /* height: 600px; */
+  margin: 30px auto;
+  background: #fff;
+  position: relative;
+}
+
+.heights {
+  height: 600px;
+}
+
+.heights-otp {
+  height: 400px;
+}
+
+.div-center {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  width: 30%;
+  height: 65%;
+  border: 1px solid green
+}
+
